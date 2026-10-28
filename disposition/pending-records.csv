@@ -1,0 +1,6 @@
+sequence,record_id,department,title,retention_end,resolution,reviewer,source_line
+10,CR-100,ARCHIVE,Harbor survey negatives,2024-12-31,DESTROY,R2,9
+20,CR-205,FINANCE,Winter grant ledgers,2025-03-31,DESTROY,R2,3
+40,CR-415,MUSEUM,Quarry oral-history tapes,2025-09-30,TRANSFER,R1,11
+50,CR-520,PLANNING,Map cabinet index cards,2027-01-31,NO_REQUEST,,
+70,CR-730,ENGINEERING,Footbridge inspection prints,2026-12-31,DESTROY,R2,16
