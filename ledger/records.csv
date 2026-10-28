@@ -1,0 +1,8 @@
+sequence,record_id,department,title,retention_end,status
+10,CR-100,ARCHIVE,Harbor survey negatives,2024-12-31,PENDING
+20,CR-205,FINANCE,Winter grant ledgers,2025-03-31,PENDING
+30,CR-310,LEGAL,Orchard lease abstracts,2026-06-30,CLOSED
+40,CR-415,MUSEUM,Quarry oral-history tapes,2025-09-30,PENDING
+50,CR-520,PLANNING,Map cabinet index cards,2027-01-31,PENDING
+60,CR-625,ARCHIVE,Cedar festival programs,2024-08-31,CLOSED
+70,CR-730,ENGINEERING,Footbridge inspection prints,2026-12-31,PENDING
